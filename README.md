@@ -19,14 +19,60 @@ Beyond academics, I'm a WordPress web designer, open-source contributor, and avi
 
 ### Recent Publications
 
+<div align="center">
+<table>
+<tr>
+<td width="33%" valign="top">
+
 **Journal Article (2025)**
-- "Examining the Role of Repo Rate in Controlling Inflation" - *International Journal of Sustainability and Multidisciplinary Research (IJSMR)*
+
+**"Examining the Role of Repo Rate in Controlling Inflation: Analyzing the Dynamics of the Proportional Relationship"**
+
+*Authors: Mashrura Meshkat Punno, Md Golam Mubasshir Rafi*
+
+*International Journal of Sustainability and Multidisciplinary Research (IJSMR)*  
+Published: February 21, 2025 (pp. 56-68)
+
+This comprehensive study evaluates the effectiveness of repo rate adjustments as a primary monetary policy instrument for inflation control, examining the dynamics of proportional relationships and limitations in volatile economic conditions.
+
+*Keywords: Monetary Policy, Inflation Control, Central Banking, Economic Analysis*
+
+</td>
+<td width="33%" valign="top">
 
 **Conference Paper (2025)**
-- "Exploring Mobile Financial Services Adoption Among Market Merchants in Sylhet" - *ICFLEW 2025, BRAC University*
+
+**"Exploring Mobile Financial Services (MFS) Adoption and Basic Financial Literacy Among Market Merchants in Sylhet"**
+
+*Authors: Md Golam Mubasshir Rafi, Israt Zarin Ruponty*
+
+*International Conference on Financial Literacy and Economic Wellbeing (ICFLEW) 2025*  
+BRAC Business School, BRAC University, 26 June 2025 (pp. 92-93)
+
+Comprehensive study investigating MFS adoption patterns and basic financial literacy levels among market merchants in Sylhet, identifying barriers and proposing solutions for enhanced digital financial inclusion in local markets.
+
+*Keywords: Digital Finance, Financial Literacy, MFS Adoption, Market Research*
+
+</td>
+<td width="33%" valign="top">
 
 **Book Chapter (2024)**
-- "Chapter 2: Demand and Supply" - *Basic Microeconomics: Application to Bangladesh Economy*
+
+**"Chapter 2: Demand and Supply"**
+
+*Authors: Md. Golam Mubasshir Rafi, Md. Tanjimul Islam, Motasim Billah Sadi, Md. Imran Mahbub, Md. Limon Hossain, K. M. Nadimul Islam, Md. Munem Shahriar, Atifor Rahman, Abdun Nur Miad*
+
+*Basic Microeconomics: Application to Bangladesh Economy*  
+Nova Books And Publishers (2024), pp. 21-41
+
+Comprehensive coverage of demand and supply dynamics with local market case studies and statistical analysis specifically tailored to the Bangladesh economy, providing practical insights for understanding microeconomic principles.
+
+*Keywords: Microeconomics, Bangladesh Economy, Market Analysis, Economic Theory*
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
