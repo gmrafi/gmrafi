@@ -71,16 +71,6 @@ WordPress, JavaScript, HTML, CSS, Python, Elementor, WooCommerce
 
 ---
 
-## Education
-
-**Bachelor of Business Administration (2023 - Present)**
-Army Institute of Business Administration, Sylhet (BUP)
-
-**Higher Secondary (2022)**
-Nijhor Cantonment Public School & College, Dhaka
-
----
-
 ## GitHub Stats
 
 <div align="center">
