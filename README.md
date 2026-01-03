@@ -1,3 +1,16 @@
+## ⚠️ Domain Update Notice
+As of December 26, 2025, I have officially released ownership of my previous domain **gmrafi.com**. I am no longer associated with or responsible for any content, activities, or developments on that site.
+
+My official and verified online presence is now under the national .bd domain:
+- **Website:** [www.gmrafi.com.bd](https://www.gmrafi.com.bd)
+- **Email:** rafi@gmrafi.com.bd
+
+This change reflects my commitment to using sustainable, official platforms for my academic research and web development work. For more details, see my [social media announcement](link to your post).
+
+Thank you for your understanding!
+
+
+
 <div align="center">
   <h1>MD Golam Mubasshir Rafi</h1>
   <h3>Student @Army IBA, Sylhet | Undergraduate Researcher | Web Developer</h3>
@@ -138,8 +151,8 @@ WordPress, JavaScript, HTML, CSS, Python, Elementor, WooCommerce
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-rafi@gmrafi.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafi@gmrafi.com)
-[![Website](https://img.shields.io/badge/Website-gmrafi.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gmrafi.com)
+[![Email](https://img.shields.io/badge/Email-rafi@gmrafi.com.bd-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafi@gmrafi.com.bd)
+[![Website](https://img.shields.io/badge/Website-gmrafi.com.bd-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gmrafi.com.bd)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--4015--8354-green?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-4015-8354)
 
 </div>
@@ -149,4 +162,5 @@ WordPress, JavaScript, HTML, CSS, Python, Elementor, WooCommerce
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=gmrafi&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
+
 
