@@ -20,9 +20,11 @@ Thank you for your understanding!
 
 ## About Me
 
-I'm **Rafi**, a 2nd year BBA student at **Army Institute of Business Administration (AIBA), Sylhet**, affiliated with Bangladesh University of Professionals (BUP). I'm passionate about business dynamics, economic policy, and digital innovation.
+Rafi, an undergraduate student at the Army Institute of Business Administration (Army IBA), Sylhet, an affiliated institute of Bangladesh University of Professionals (BUP). As a student of Business Administration, I am passionate about exploring opportunities in the business and technology landscape.
 
-Beyond academics, I'm a WordPress web designer, open-source contributor, and avid debater. I regularly participate in hackathons and tech events while focusing on bridging traditional business principles with modern technology.
+Beyond academics, I am a dedicated WordPress web designer and an active participant in the open-source community. I enjoy contributing to WordPress and engaging with its vibrant ecosystem. Additionally, I am an avid debater, which has honed my communication and critical thinking skills.
+
+In addition to my interest in web design, I regularly participate in hackathons and technological events, constantly seeking to expand my knowledge and apply it to real-world challenges. Though I enjoy writing, it currently takes a backseat as I focus more on my professional growth and development in the business and tech spaces.
 
 ---
 
