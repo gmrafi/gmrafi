@@ -41,6 +41,8 @@ Beyond academics, I am a dedicated WordPress web designer and an active particip
 
 **"Algorithmic Inclusion: A Conceptual Evaluation of AI-Driven Credit Risk Modeling for Sustainable MSME Financing"**
 
+*Authors: Md Golam Mubasshir Rafi*
+
 *8th International Conference on Sustainable Development (ICSD) 2026, UIU*
 
 </td>
@@ -50,6 +52,8 @@ Beyond academics, I am a dedicated WordPress web designer and an active particip
 
 **"bKash's AI-Driven Nano Loans: Advancing Sustainable Microfinance in Bangladesh"**
 
+*Authors: Md Golam Mubasshir Rafi, Afshara Tasneem Zoa*
+
 *2nd International Case Conference on Business and Management (ICCBM) 2025, BRAC University*
 
 </td>
@@ -58,6 +62,8 @@ Beyond academics, I am a dedicated WordPress web designer and an active particip
 **Journal Article (2026)**
 
 **"Assessing the Socio-Economic Impact and Sustainability of Microfinance-Enabled Solar Home Systems in Rural Bangladesh"**
+
+*Authors: Fariha Fairouz Proma, Md Golam Mubasshir Rafi, Nowshin Noweer Nisa*
 
 *Atlantis Press (Springer Nature), ASSEHR Series*
 
