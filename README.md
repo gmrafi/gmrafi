@@ -20,22 +20,49 @@ Thank you for your understanding!
 
 ## About Me
 
-Rafi, an undergraduate student at the Army Institute of Business Administration (Army IBA), Sylhet, an affiliated institute of Bangladesh University of Professionals (BUP). As a student of Business Administration, I am passionate about exploring opportunities in the business and technology landscape.
+I am an undergraduate student at the Army Institute of Business Administration (Army IBA), Sylhet, an affiliated institute of Bangladesh University of Professionals (BUP). As a student of Business Administration, I am passionate about bridging business strategy with technological innovation through research-driven solutions. I currently serve as a Web Developer & Tech Associate at Sylhet Sustainable Development Research Firm (SSDRF) and a Founding Member of the Centre for Fintech & Strategic Business Research (CFSBR).
 
-Beyond academics, I am a dedicated WordPress web designer and an active participant in the open-source community. I enjoy contributing to WordPress and engaging with its vibrant ecosystem. Additionally, I am an avid debater, which has honed my communication and critical thinking skills.
-
-In addition to my interest in web design, I regularly participate in hackathons and technological events, constantly seeking to expand my knowledge and apply it to real-world challenges. Though I enjoy writing, it currently takes a backseat as I focus more on my professional growth and development in the business and tech spaces.
+Beyond academics, I am a dedicated WordPress web designer and an active participant in the open-source community. I regularly participate in hackathons and technological events, constantly seeking to expand my knowledge and apply it to real-world challenges. Additionally, I am involved in creative pursuits, including film production and scriptwriting for mental health awareness campaigns.
 
 ---
 
 ## Research & Publications
 
-**3 Publications | 6 Research Areas | 10+ Projects | 25+ Certifications**
+**7 Publications | 10+ Projects | 25+ Certifications**
 
 ### Recent Publications
 
 <div align="center">
 <table>
+<tr>
+<td width="33%" valign="top">
+
+**Conference Paper (2026)**
+
+**"Algorithmic Inclusion: A Conceptual Evaluation of AI-Driven Credit Risk Modeling for Sustainable MSME Financing"**
+
+*8th International Conference on Sustainable Development (ICSD) 2026, UIU*
+
+</td>
+<td width="33%" valign="top">
+
+**Conference Paper (2025)**
+
+**"bKash's AI-Driven Nano Loans: Advancing Sustainable Microfinance in Bangladesh"**
+
+*2nd International Case Conference on Business and Management (ICCBM) 2025, BRAC University*
+
+</td>
+<td width="33%" valign="top">
+
+**Journal Article (2026)**
+
+**"Assessing the Socio-Economic Impact and Sustainability of Microfinance-Enabled Solar Home Systems in Rural Bangladesh"**
+
+*Atlantis Press (Springer Nature), ASSEHR Series*
+
+</td>
+</tr>
 <tr>
 <td width="33%" valign="top">
 
@@ -47,10 +74,6 @@ In addition to my interest in web design, I regularly participate in hackathons 
 
 *International Journal of Sustainability and Multidisciplinary Research (IJSMR)*  
 Published: February 21, 2025 (pp. 56-68)
-
-This comprehensive study evaluates the effectiveness of repo rate adjustments as a primary monetary policy instrument for inflation control, examining the dynamics of proportional relationships and limitations in volatile economic conditions.
-
-*Keywords: Monetary Policy, Inflation Control, Central Banking, Economic Analysis*
 
 </td>
 <td width="33%" valign="top">
@@ -64,10 +87,6 @@ This comprehensive study evaluates the effectiveness of repo rate adjustments as
 *International Conference on Financial Literacy and Economic Wellbeing (ICFLEW) 2025*  
 BRAC Business School, BRAC University, 26 June 2025 (pp. 92-93)
 
-Comprehensive study investigating MFS adoption patterns and basic financial literacy levels among market merchants in Sylhet, identifying barriers and proposing solutions for enhanced digital financial inclusion in local markets.
-
-*Keywords: Digital Finance, Financial Literacy, MFS Adoption, Market Research*
-
 </td>
 <td width="33%" valign="top">
 
@@ -80,10 +99,6 @@ Comprehensive study investigating MFS adoption patterns and basic financial lite
 *Basic Microeconomics: Application to Bangladesh Economy*  
 Nova Books And Publishers (2024), pp. 21-41
 
-Comprehensive coverage of demand and supply dynamics with local market case studies and statistical analysis specifically tailored to the Bangladesh economy, providing practical insights for understanding microeconomic principles.
-
-*Keywords: Microeconomics, Bangladesh Economy, Market Analysis, Economic Theory*
-
 </td>
 </tr>
 </table>
@@ -91,44 +106,59 @@ Comprehensive coverage of demand and supply dynamics with local market case stud
 
 ---
 
+## Funded Research Initiatives
+
+- **MSEI-Bangladesh:** Research Assistant (Digital Operations). Deploying National Living Standard Index Digital Infrastructure, featuring a unified policy terminal and KoBoCollect field ops across 8 divisions (420 households) with dual estimation models (Grant: NAPD, Ministry of Public Administration 2025-26).
+- **Dividend-Volatility Nexus:** Research Assistant (Web & Data Infrastructure). Architecting Bayesian Econometric Data Portal for DSE (Grant: SUST Research Centre).
+
+---
+
 ## Research Interests
 
+- FinTech & Financial Inclusion
+- Information Systems
+- Social Psychology & Behavioral Economics
+- Strategic Intelligence & Business Analytics
 - Monetary Policy & Economics
-- Digital Financial Services
-- Internal Auditing & Risk Management
-- AI in Business Research
 - Sustainable Business
-- Market Dynamics
 
 ---
 
 ## Technologies
 
-WordPress, JavaScript, HTML, CSS, Python, Elementor, WooCommerce
+WordPress, JavaScript, HTML, CSS, Python, Elementor, WooCommerce, React, Next.js, TypeScript, Supabase, Mapbox GL JS, SPSS Analytics
 
 ---
 
-## Current Projects
+## Certifications
 
-- **SynapseBiz AI** - Business Research Assistant (AI-powered tool for business research)
-- Research in FinTech and sustainable development
-- Academic writing and conference presentations
+- **NASA Open Science Essentials** (NASA, 2025)
+- **Introduction to Python** (DataCamp, 2025)
+- **Credit Analyst Job Simulation** (Standard Chartered, 2025)
+- **Scopus Academy: Basic Search** (Elsevier, 2025)
+- **Psychological First Aid** (Johns Hopkins, 2023)
+- **WordPress Contributor Mentorship** (WordPress.org, 2024)
 
 ---
 
-## Notable Work
+## Notable Work & Projects
 
-### Web Development
-- **SSDRF Website** (ssdrf.com) - Official website for research firm
-- **SSDRF Academy** (academy.ssdrf.com) - Educational platform
-- **Justice Half Marathon 2025** (justicehalfmarathon.com) - National marathon website
-- **Personal Portfolio** (gmrafi.com)
-- **Certificate Management System** - Web-based verification system
+### Web Development & Digital Infrastructure
+- **OrbitBiZ - LEO Commerce Platform:** Satellite Inspection-as-a-Service (SIaaS) platform for NASA Space Apps Challenge 2025.
+- **CFSBR C.A.S.E.:** Strategic repository transforming undergraduate classroom assignments into citeable professional assets.
+- **MindMatters:** Evidence-based mental health platform.
+- **The Bangladesh MFS Inclusion Radar:** Strategic data terminal for MFS ecosystem analysis.
+- **AIBA Sylhet National Half Marathon 2025:** Developed complete digital infrastructure serving 850+ runners.
+- **Blood Bank Management System:** Comprehensive blood donation management system.
+- **AIBA Bus Tracking System:** Real-time university bus tracking system.
+- **SSDRF Website** (ssdrf.com) - Official website for research firm.
 
-### Creative Projects
-- **"Reach Out"** - 90-second TVC on mental health awareness
-- **"The Great Strangers"** -A Sci-Fi Psychological Drama with Emotional Depth. Script
-- **"The Letter of Memories"** - Family drama TVC script
+### Extracurricular & Creative
+- **NASA Space Apps Challenge 2025:** Global Nominee & Regional 1st Runner-Up with Team AIBA SpaceWeb (OrbitBiZ).
+- **WordPress Community:** Active volunteer at WordCamp Dhaka 2025 and contributor to open-source initiatives.
+- **"Reach Out"** - 90-second TVC on mental health awareness.
+- **"The Great Strangers"** - A Sci-Fi Psychological Drama Script.
+- **"The Letter of Memories"** - Family drama TVC script.
 
 ---
 
@@ -149,7 +179,7 @@ WordPress, JavaScript, HTML, CSS, Python, Elementor, WooCommerce
 
 ---
 
-##  Contact
+## Contact
 
 <div align="center">
 
@@ -164,5 +194,3 @@ WordPress, JavaScript, HTML, CSS, Python, Elementor, WooCommerce
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=gmrafi&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
-
-
