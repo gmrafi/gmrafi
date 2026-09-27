@@ -28,14 +28,14 @@ Beyond academics, I am a dedicated WordPress web designer and an active particip
 
 ## Research & Publications
 
-**Published 5 Academic Works | 10+ Projects | 25+ Certifications**
+**Published 7 Academic Works | 10+ Projects | 25+ Certifications**
 
 ### Recent Publications
 
 <div align="center">
 <table>
 <tr>
-<td width="100%" valign="top" colspan="3">
+<td width="33%" valign="top">
 
 **Conference Paper (2026)**
 
@@ -46,8 +46,6 @@ Beyond academics, I am a dedicated WordPress web designer and an active particip
 *1st RCASBC International Conference, University of Chittagong*
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 
 **Conference Paper (2026)**
@@ -70,6 +68,8 @@ Beyond academics, I am a dedicated WordPress web designer and an active particip
 *2nd International Case Conference on Business and Management (ICCBM) 2025, BRAC University*
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 
 **Journal Article (2026)**
@@ -81,8 +81,6 @@ Beyond academics, I am a dedicated WordPress web designer and an active particip
 *Atlantis Press (Springer Nature), ASSEHR Series*
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 
 **Journal Article (2025)**
@@ -107,6 +105,8 @@ Published: February 21, 2025 (pp. 56-68)
 BRAC Business School, BRAC University, 26 June 2025 (pp. 92-93)
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 
 **Book Chapter (2024)**
@@ -118,6 +118,10 @@ BRAC Business School, BRAC University, 26 June 2025 (pp. 92-93)
 *Basic Microeconomics: Application to Bangladesh Economy*  
 Nova Books And Publishers (2024), pp. 21-41
 
+</td>
+<td width="33%" valign="top">
+</td>
+<td width="33%" valign="top">
 </td>
 </tr>
 </table>
