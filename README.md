@@ -13,14 +13,14 @@ Thank you for your understanding!
 
 <div align="center">
   <h1>MD Golam Mubasshir Rafi</h1>
-  <h3>Student @Army IBA, Sylhet | Undergraduate Researcher | Web Developer</h3>
+  <h3>Research Assistant & Finance Student @Army IBA | Undergraduate Researcher | Web Developer</h3>
 </div>
 
 ---
 
 ## About Me
 
-I am an undergraduate student at the Army Institute of Business Administration (Army IBA), Sylhet, an affiliated institute of Bangladesh University of Professionals (BUP). As a student of Business Administration, I am passionate about bridging business strategy with technological innovation through research-driven solutions. I currently serve as a Web Developer & Tech Associate at Sylhet Sustainable Development Research Firm (SSDRF) and a Founding Member of the Centre for Fintech & Strategic Business Research (CFSBR).
+Undergraduate Finance student at Army Institute of Business Administration (BUP-affiliated) operating at the intersection of FinTech research, academic data systems, and web architecture. Currently serving as the Institutional Research Assistant at Army IBA Sylhet alongside being a Founding Member at CFSBR.
 
 Beyond academics, I am a dedicated WordPress web designer and an active participant in the open-source community. I regularly participate in hackathons and technological events, constantly seeking to expand my knowledge and apply it to real-world challenges. Additionally, I am involved in creative pursuits, including film production and scriptwriting for mental health awareness campaigns.
 
@@ -28,12 +28,25 @@ Beyond academics, I am a dedicated WordPress web designer and an active particip
 
 ## Research & Publications
 
-**7 Publications | 10+ Projects | 25+ Certifications**
+**Published 5 Academic Works | 10+ Projects | 25+ Certifications**
 
 ### Recent Publications
 
 <div align="center">
 <table>
+<tr>
+<td width="100%" valign="top" colspan="3">
+
+**Conference Paper (2026)**
+
+**"Financial Cyber Warfare and State Sovereignty: Revisiting the Bangladesh Bank Reserve Heist a Decade Later"**
+
+*Authors: Afshara Tasneem Zoa, Md Golam Mubasshir Rafi, Nishat Jahan Nowshin*
+
+*1st RCASBC International Conference, University of Chittagong*
+
+</td>
+</tr>
 <tr>
 <td width="33%" valign="top">
 
@@ -147,9 +160,19 @@ WordPress, JavaScript, HTML, CSS, Python, Elementor, WooCommerce, React, Next.js
 
 ---
 
+## Awards & Achievements
+
+- **1st Place Winner:** Open Science Research Competition organized by SDG 360.
+- **1st Place Champion:** InkSpire Content Challenge organized by Data Solution-360.
+- **2nd Place (Silver Award):** Mentors' Scriptoria National Literary Fest 2026 (DU Writers' Hub) for Research Proposal.
+- **NASA Space Apps Challenge 2025:** Global Nominee & Regional 1st Runner-Up with Team AIBA SpaceWeb (OrbitBiZ).
+
+---
+
 ## Notable Work & Projects
 
 ### Web Development & Digital Infrastructure
+- **FinEngine:** Deterministic Finance Primitives for JavaScript & TypeScript (Creator & Lead Maintainer).
 - **OrbitBiZ - LEO Commerce Platform:** Satellite Inspection-as-a-Service (SIaaS) platform for NASA Space Apps Challenge 2025.
 - **CFSBR C.A.S.E.:** Strategic repository transforming undergraduate classroom assignments into citeable professional assets.
 - **MindMatters:** Evidence-based mental health platform.
@@ -160,7 +183,6 @@ WordPress, JavaScript, HTML, CSS, Python, Elementor, WooCommerce, React, Next.js
 - **SSDRF Website** (ssdrf.com) - Official website for research firm.
 
 ### Extracurricular & Creative
-- **NASA Space Apps Challenge 2025:** Global Nominee & Regional 1st Runner-Up with Team AIBA SpaceWeb (OrbitBiZ).
 - **WordPress Community:** Active volunteer at WordCamp Dhaka 2025 and contributor to open-source initiatives.
 - **"Reach Out"** - 90-second TVC on mental health awareness.
 - **"The Great Strangers"** - A Sci-Fi Psychological Drama Script.
@@ -194,6 +216,18 @@ WordPress, JavaScript, HTML, CSS, Python, Elementor, WooCommerce, React, Next.js
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--4015--8354-green?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-4015-8354)
 
 </div>
+
+---
+
+## Academic References
+
+- **Prof. Dr. Munshi Naser Ibne Afzal**
+  Professor, Dept. of Economics, SUST & Research Fellow, SSDRF
+  *munshinaser-eco@sust.edu*
+
+- **Md. Iqbal Hossain**
+  Lecturer, Army Institute of Business Administration (Army IBA), Sylhet
+  *mdiqbal@aibasylhet.edu.bd*
 
 ---
 
